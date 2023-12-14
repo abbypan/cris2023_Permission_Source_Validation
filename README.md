@@ -1,7 +1,5 @@
-# cris2023_Permission_Source_Validation
+# Enhance Calling Definition Security for Android Custom Permission
 
-[cris2023](https://cosit2023.org/cris/papers)
+CRIS2023: Enhance Calling Definition Security for Android Custom Permission
 
-[Enhance Calling Definition Security for Android Custom Permission](https://aircconline.com/csit/abstract/v13n8/csit130808.html)
-
-[slide](<cris_slide_Enhance Calling Definition Security for Android Custom Permission.pdf>)
+[Paper](https://aircconline.com/csit/abstract/v13n8/csit130808.html), [Slide](cris_slide_Enhance Calling Definition Security for Android Custom Permission.pdf), [Video](https://www.youtube.com/watch?v=jmK8DdZ72Ow)
